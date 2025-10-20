@@ -13,7 +13,7 @@
 4. Вывести результаты расчётов с подстановкой всех значений в текст.
 5. Конец
 ### Блок-схема ###
-<img width="164" height="1924" alt="image" src="https://github.com/user-attachments/assets/583b4713-8dff-4c31-87df-55af4f91d922" />
+<img width="175" height="1924" alt="image" src="https://github.com/user-attachments/assets/583b4713-8dff-4c31-87df-55af4f91d922" />
 
 
 ## 2. Реализация программы ##
