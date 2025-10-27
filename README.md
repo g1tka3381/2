@@ -22,7 +22,7 @@
 
 
 ## 3. Результаты работы программы ##
-<img width="350" height="58" alt="image" src="https://github.com/user-attachments/assets/88cfa803-74d1-48cf-aabc-d2d07e50ccbb" />
+<img width="400" height="58" alt="image" src="https://github.com/user-attachments/assets/88cfa803-74d1-48cf-aabc-d2d07e50ccbb" />
 
 
 ## 4. Информация о разработчике ##
