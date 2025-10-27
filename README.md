@@ -8,8 +8,9 @@
    * ``` h ``` - высота.
    * ``` л ``` - коэффицент угла.
    * ``` k ``` - угол.
+   * ``` s ``` - путь.
 3. Вычислить путь:
-   * ``` h ``` / ``` sin(A) ```
+   * ``` s = h / (sin(A) - k * cos(A)) ```
 4. Вывести результаты расчётов с подстановкой всех значений в текст.
 5. Конец
 ### Блок-схема ###
@@ -17,11 +18,11 @@
 
 
 ## 2. Реализация программы ##
-<img width="350" height="594" alt="image" src="https://github.com/user-attachments/assets/4f401346-5b58-44df-85b7-45ab513e5fe8" />
+<img width="350" height="664" alt="image" src="https://github.com/user-attachments/assets/0ee9d4ba-a232-405b-b0f4-304ea40fa97e" />
 
 
 ## 3. Результаты работы программы ##
-<img width="250" height="62" alt="image" src="https://github.com/user-attachments/assets/933349c7-5d99-4c1e-8b4d-99f289b9bbbf" />
+<img width="250" height="58" alt="image" src="https://github.com/user-attachments/assets/88cfa803-74d1-48cf-aabc-d2d07e50ccbb" />
 
 
 ## 4. Информация о разработчике ##
