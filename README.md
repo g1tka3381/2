@@ -18,11 +18,11 @@
 
 
 ## 2. Реализация программы ##
-<img width="350" height="664" alt="image" src="https://github.com/user-attachments/assets/0ee9d4ba-a232-405b-b0f4-304ea40fa97e" />
+<img width="400" height="664" alt="image" src="https://github.com/user-attachments/assets/0ee9d4ba-a232-405b-b0f4-304ea40fa97e" />
 
 
 ## 3. Результаты работы программы ##
-<img width="250" height="58" alt="image" src="https://github.com/user-attachments/assets/88cfa803-74d1-48cf-aabc-d2d07e50ccbb" />
+<img width="350" height="58" alt="image" src="https://github.com/user-attachments/assets/88cfa803-74d1-48cf-aabc-d2d07e50ccbb" />
 
 
 ## 4. Информация о разработчике ##
